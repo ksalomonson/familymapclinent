@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Family Map</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="server_host">Server Host:</string>
+    <string name="server_port">Server Port:</string>
+    <string name="user_name">User Name:</string>
+    <string name="password">Password:</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="email">Email:</string>
+    <string name="gender">Gender:</string>
+    <string name="serverHostText">Server Host:</string>
+    <string name="userNameText">User Name:</string>
+    <string name="passwordText">Password:</string>
+    <string name="firstNameText">First Name:</string>
+    <string name="lastNameText">Last Name:</string>
+    <string name="emailText">Email:</string>
+    <string name="serverPortText">Server Port:</string>
+    <string name="genderText">Gender:</string>
+    <string name="maleText">Male</string>
+    <string name="femaleText">Female</string>
+    <string name="signInText">SIGN IN</string>
+    <string name="registerText">REGISTER</string>
+    <string name="loginNotSuccessful">Login failed</string>
+    <string name="loginNotSuccessfulPerson">Login failed on getting person info</string>
+    <string name="registerNotSuccessful">Register failed</string>\
+    <string name="registerNotSuccessfulPeopleGetAll">Register failed in people get all</string>
+    <string name="registerNotSuccessfulEventGetALL">Register failed in event get all</string>
+    <string name="registerSuccessful">Register success!</string>
+    <string name="peopleGetAllNotSuccessful">PeopleGetAll failed</string>
+    <string name="eventGetAllNotSuccessful">EventGetAll failed</string>
+    <string name="loginSuccessful">Login success!</string>
+    <string name="introMapMessageOne">Click on a marker</string>
+    <string name="introMapMessageTwo">to see event details</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_my_map">Family Map</string>
+    <string name="personLabel">Family Map: Person Details</string>
+    <string name="life_story_lines">Life Story Lines</string>
+    <string name="show_life_story_lines">SHOW LIFE STORY LINES</string>
+    <string name="family_tree_lines">Family Tree Lines</string>
+    <string name="show_tree_lines">SHOW TREE LINES</string>
+    <string name="spouse_lines_string">Spouse Lines</string>
+    <string name="show_spouse_lines">SHOW SPOUSE LINES</string>
+    <string name="background_display_on_map">BACKGROUND DISPLAY ON MAP</string>
+    <string name="from_familymap_service">FROM FAMILYMAP SERVICE</string>
+    <string name="re_sync_data">Re-sync Data</string>
+    <string name="lougout">Logout</string>
+    <string name="familysettings">Family Map: Settings</string>
+    <string name="filtertitle">Family Map: Filter</string>
+    <string name="returns_to_login_screen">RETURNS TO LOGIN SCREEN</string>
+    <string name="familyMapSearchLabel">Family Map: Search</string>
+    <string name="nameOfApp">MyApplication</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="red">Red</string>
+    <string name="map_type">Map Type</string>
+    <string name="normal">Normal</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+</resources>
